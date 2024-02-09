@@ -23,7 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [link to my github depository ](https://github.com/Ghosk04/Frontend-Mentor---qr-code-component.git)
+- Depository URL: [link to my github depository ](https://github.com/Ghosk04/Frontend-Mentor---qr-code-component.git)
+- Live site URL : [link to the website overview](https://fm-qr-component-ghosk04.netlify.app)
 
 ## My process
 
